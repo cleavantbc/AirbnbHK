@@ -33,6 +33,8 @@ Brief 2-3 sentence summary: what data, what question, what tools.
 - Key questions explored: pricing by neighbourhood, room type 
   distribution, superhost impact on pricing/ratings
 
+"255 listings (3.6%) had minimum_nights > 30, indicating long-term rentals rather than typical short-stay tourism. These were segmented into a separate view to avoid skewing price analysis, while preserving the data for potential long-term rental market analysis."
+
 ### 4. Dashboard
 - [Screenshot or link to Power BI dashboard]
 
